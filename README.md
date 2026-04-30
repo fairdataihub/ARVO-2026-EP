@@ -5,7 +5,7 @@
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 
-# Repository of the ARVO 2026 Annual Meeting poster on the Envision Portal
+# Repository of the ARVO 2026 Annual Meeting Poster on the Envision Portal
 
 ## About
 
