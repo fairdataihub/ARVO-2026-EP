@@ -36,16 +36,16 @@ Our findings define the core framework required to support interoperable, AI-rea
 
 | Type            | Date & Time             | Authors                          | Session / Location                                              | Details |
 | --------------- | -----------------|--------------------------------- |------------------------------------------------------ |------------------- |
-| Course          |  Wednesday, May 6, 2025, 10:15 am – 12:00 pm MT | Bhavesh Patel (presenter) | Session 3: Fundamentals of model training and federated learning  |[ARVO website](https://www.arvo.org/annual-meeting) |
+| Course          |  Wednesday, May 6, 2026, 10:15 am – 12:00 pm MT | Bhavesh Patel (presenter) | Session 3: Fundamentals of model training and federated learning  |[ARVO website](https://www.arvo.org/annual-meeting) |
 
 
-## Course material
+## Material
 
 - [ARVO-2026-Envision-Portal-poster.pdf](ARVO-2026-Envision-Portal-poster.pdf): pdf file of the poster.
 
 ## Resources
 
-We list here major resources relevant to our poster and talk.
+We list here major resources relevant to our poster.
 
 | Description                                         | Link                                                              |
 | --------------------------------------------------  | ----------------------------------------------------------------- |
