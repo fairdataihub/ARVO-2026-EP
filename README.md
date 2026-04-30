@@ -54,6 +54,7 @@ We list here major resources relevant to our poster.
 | Ophthalmic dataset classifier                           | https://github.com/EyeACT/envision-classifier |
 | Ophthalmic dataset discovery pipeline                           | https://github.com/EyeACT/envision-discovery |
 | FAIR Principles                        | https://doi.org/10.1038/sdata.2016.18 |
+| AI-READI project                      | https://aireadi.org |
 
 ## License
 The material in this repository is licensed under a
