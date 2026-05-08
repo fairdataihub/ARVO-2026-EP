@@ -41,7 +41,7 @@ Our findings define the core framework required to support interoperable, AI-rea
 
 ## Material
 
-- [ARVO-2026-Envision-Portal-poster.pdf](ARVO-2026-Envision-Portal-poster.pdf): pdf file of the poster.
+- [ARVO-2026-Envision-Portal-poster.pdf](ARVO-2026-Envision-Portal-poster.pdf): pdf file of the poster. The poster is also archived on Zenodo https://doi.org/10.5281/zenodo.19990727.
 
 ## Resources
 
